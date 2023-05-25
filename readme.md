@@ -23,3 +23,7 @@ descripcion: El objetivo será asegurarnos que se completene todos los controles
         -si los campos cumplen con los requisitos:
             -a todos los campos se le agrega la clase "is-valid"
     
+    desafio 2:
+        - si hay errores en la vista se deben mostrar al usuario una lista con los errores
+
+        - si todos los datos se cumplen se debe enviar un mensaje al usuario con la leyenda: “La película se guardó satisfactoriamente” 

@@ -191,6 +191,7 @@ window.onload = function(){
             submitErrors.style.color = "red"
             submitErrors.innerHTML = "por favor, revise los errores en su formulario"
         } else {
+            alert("La película se guardó satisfactoriamente")
             form.submit()
         }
     })
